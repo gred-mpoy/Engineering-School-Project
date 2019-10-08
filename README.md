@@ -1,3 +1,3 @@
 # Projects
 
-Contains all projects done in engineering school
+Contains some projects done in engineering school
